@@ -1,182 +1,182 @@
 # auth
 
 secure.title=
-secure.username=Usuario
-secure.password=Contraseña
-secure.remember= Recordar detalles
-secure.signin=Entrar
-secure.error=Nombre de usuario o contraseña desconocido.
-secure.logout=Ha cerrado sesión. 
-secure.change-password=Cambiar contraseña
+secure.username=User
+secure.password=Password
+secure.remember= Remember me
+secure.signin=Sign in
+secure.error=Incorrect username or password
+secure.logout=Log out 
+secure.change-password=Change password
 
 
 # app 
 
-application.name=Avisos de Transporte Público
+application.name=Public Transit Alerts
 
 # nav-bar
 
-nav-bar.agency=Información de organismo de transporte
-nav-bar.home=Inicio
-nav-bar.contact=Contacto 
-nav-bar.user-greeting=¡Bienvenido!
+nav-bar.agency=Transit Agency Information
+nav-bar.home=Home
+nav-bar.contact=Contact 
+nav-bar.user-greeting=Welcome!
 
-nav-bar.export=Exportar
-nav-bar.admin=Administrador
+nav-bar.export=Export
+nav-bar.admin=Administrator
 
-nav-bar.map=Mapa de Avisos
-nav-bar.all=Todos los Avisos
+nav-bar.map=Alerts Map
+nav-bar.all=All Alerts
 
-nav-bar.logout=Salir
+nav-bar.logout=Log out
 
-nav-bar.settings=Preferencias
+nav-bar.settings=Preferences
 
-nav-bar.manage-users=Administrar cuentas
+nav-bar.manage-users=Manage users
 
-nav-bar.select-agency=Organismos
+nav-bar.select-agency=Agencies
 
 
 # rt format
 
-rt.last-update=Ultima actualización
+rt.last-update=Last Update
 
 # shared
 
-shared.optional= Opcional
-shared.required= Obligatorio/Requerido
+shared.optional= Optional
+shared.required= Required
 
-shared.alerts=Avisos
+shared.alerts=Alerts
 
-shared.details=Detalles
+shared.details=Details
 
-shared.button.save=Guardar
-shared.button.delete=Borrar
-shared.button.save-continue=Guardar y continuar
-shared.button.edit=Editar
-shared.button.close=Cerrar
-shared.button.cancel=Cancelar
-shared.button.add=Agregar
-shared.button.update=Actualizar
-shared.button.remove=Quitar
-shared.button.change=Cambiar
+shared.button.save=Save
+shared.button.delete=Delete
+shared.button.save-continue=Save and continue
+shared.button.edit=Edit
+shared.button.close=Close
+shared.button.cancel=Cancel
+shared.button.add=Add
+shared.button.update=Update
+shared.button.remove=Remove
+shared.button.change=Change
 
-shared.explore-search-routes=Explorar/Buscar rutas
-shared.new-route=Nueva ruta
+shared.explore-search-routes=Explore/Search routes
+shared.new-route=New route
 
-shared.stop=Estaciones/Paradas
-shared.route=Rutas
+shared.stop=Stations/Stops
+shared.route=Routes
 
-shared.loading=Cargando
+shared.loading=Loading
 
 # main 
 
-main.active-alerts=Avisos activos en este momento
-main.future-alerts=Avisos activos en el futuro
+main.active-alerts=Active alerts
+main.future-alerts=Future alerts
 
-main.no-active-alerts=Sin avisos activos en este momento
-main.no-future-alerts=Sin avisos activos en el futuro
+main.no-active-alerts=No active alerts
+main.no-future-alerts=No future alerts
 
-main.new-alert=Crear nuevo aviso
+main.new-alert=Create new alert
 
-main.no-title=Sin título
-main.no-description=Sin Descripción
+main.no-title=No title
+main.no-description=No description
 
-main.entities=Servicios Afectados:
+main.entities=Service Affected:
 
 
 # create
 
-create-alert.title=Crear/editar aviso
+create-alert.title=Create/edit alert
 
-create.general-info=Información General
-create.times=Fechas / Horas Afectadas
-create.entities=Servicios de Transporte Público Afectados
+create.general-info=General Information
+create.times=Dates / Times Affected
+create.entities=Transit Service Affected
 
-create.no-routes-stops=No hay rutas / paradas seleccionadas.
-create.add-range=Fechas / Horas adicionales
-create.save-failed=No se pudo crear el aviso
-create.publicly-visible=Visible públicamente
+create.no-routes-stops=No routes / stops selected
+create.add-range=Additional Dates / Times
+create.save-failed=Could not create alert
+create.publicly-visible=Publicly Visible
 
-create.title=Título
-create.description=Descripción
-create.comments=Comentarios
-create.cause=Causa
-create.effect=Efecto
+create.title=Title
+create.description=Description
+create.comments=Comments
+create.cause=Cause
+create.effect=Effect
 
-create.from=Desde
-create.to=Hasta
+create.from=From
+create.to=To
 
-create.show-map=Mostrar Mapa
-create.hide-map=Ocultar Mapa
+create.show-map=Show Map
+create.hide-map=Hide Map
 
-create.times=Fechas / Horas Afectadas
+create.times=Dates / Times Affected
 
-create.entities=Servicios de Transporte Público Afectados
+create.entities=Transit Service Affected
 
-create.add-route=Agregar ruta
+create.add-route=Add route
 
-create.add-stop=Agregar parada
+create.add-stop=Add stop
 
-create.created-at=Creado
-create.updated-at=Actualizado
+create.created-at=Created at
+create.updated-at=Updated at
 
 
 # Select options
 
-select.none=(nada)
-select.technical-problem=Problemas técnicos
-select.strike=Huelga
-select.demonstration=Manifestación
-select.accident=Accidente
-select.holiday=Día festivo
-select.weather=Condiciones atmosféricas
-select.maintenance=Mantenimiento
-select.construction=Obras
-select.police-activity=Operativo policiaco
-select.medical-emergency=Emergencia médica
-select.unknown-cause=Causa desconocida
-select.other-cause=Otra causa
-select.no-service=Sin servicio
-select.reduced-service=Servicio limitado
-select.significant-delays=Retrasos significativos
-select.detour=Desvío
-select.additional-service=Servicio adicional
-select.modified-service=Servicio modificado
-select.stop-moved=Parada reubicada
-select.other-effect=Otro efecto
-select.unknown-effect=Efecto desconocido
+select.none=(None)
+select.technical-problem=Technical Problem
+select.strike=Strike
+select.demonstration=Demonstration
+select.accident=Accident
+select.holiday=Holiday
+select.weather=Weather
+select.maintenance=Maintenance
+select.construction=Construction
+select.police-activity=Police Activity
+select.medical-emergency=Medical Emergency
+select.unknown-cause=Unknown Cause
+select.other-cause=Other Cause
+select.no-service=No Service
+select.reduced-service=Reduced Service
+select.significant-delays=Significant Delays
+select.detour=Detour
+select.additional-service=Additional Service
+select.modified-service=Modified Service
+select.stop-moved=Stop Moved
+select.other-effect=Other Effect
+select.unknown-effect=Unknown Effect
 
 
 # user management
 
 #Change password
 
-user-mgmt.change-password-prompt= Escribir contraseña actual y nueva
-user-mgmt.current-password=Contraseña actual
-user-mgmt.password-incorrect=Contraseña incorrecto
-user-mgmt.new-password=Nueva contraseña
-user-mgmt.new-password-again= Nueva contraseña (otra vez)
+user-mgmt.change-password-prompt=Type your current and new passwords
+user-mgmt.current-password=Current password
+user-mgmt.password-incorrect=Incorrect password
+user-mgmt.new-password=New password
+user-mgmt.new-password-again= New password (again)
 user-mgmt.passwords-dont-match=Passwords don't match.
 
 
 #Account management
 
-user-mgmt.account-management=Administrador de cuentas
-user-mgmt.create-account=Crear cuenta
-user-mgmt.username=Usuario
-user-mgmt.email=Correo electrónico
-user-mgmt.last-login=Último ingreso
-user-mgmt.agency=Organismo 
-user-mgmt.agency-admin=Administrador de organismo
-user-mgmt.active=Activo
+user-mgmt.account-management=Account Management
+user-mgmt.create-account=Create account
+user-mgmt.username=User
+user-mgmt.email=Email
+user-mgmt.last-login=Last login
+user-mgmt.agency=Agency
+user-mgmt.agency-admin=Agency administrator
+user-mgmt.active=Active
 
-user-mgmt-username-already-in-use=Usuario está en uso
-user-mgmt-invalid-email=Correo electrónico incorrecto
+user-mgmt-username-already-in-use=Username already in use
+user-mgmt-invalid-email=Invalid email
 
 # Create account
-user-mgmt.password=Contraseña
-user-mgmt.password-again=Contraseña (otra vez)
-user-mgmt.agency=Organismo de transporte
-user-mgmt.admin-access=Privilegios de administrador
+user-mgmt.password=Password
+user-mgmt.password-again=Password (again)
+user-mgmt.agency=Transit Agency
+user-mgmt.admin-access=Administrator Privileges
 
-user-mgmt.edit-account=Editar cuenta
+user-mgmt.edit-account=Edit account
